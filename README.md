@@ -16,8 +16,5 @@ Yazılım geliştirme ve Yapay Zeka dünyasına tutkulu bir mühendisim. Karmaş
 - **Kumaş Öneri & Stok Takip Sistemi:** Tekstil sektörü için Random Forest tabanlı karar destek sistemi.
 - **Görüntü İşleme:** Python kullanarak görsel veri analizi ve manipülasyonu.
 
-## 📈 İstatistiklerim
-![Şahan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=sahankarakus&show_icons=true&theme=radical)
-
 ---
-📫 Bana ulaşın: [LinkedIn](https://linkedin.com/in/sahankarakus) | [Email](mailto:sahan.karakuss@gmail.com)
+📫 **Bana ulaşın:** [LinkedIn](https://www.linkedin.com/in/şahan-karakuş-595204378/) | [Email](mailto:sahan.karakuss@gmail.com)
