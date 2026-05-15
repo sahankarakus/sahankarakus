@@ -1,16 +1,23 @@
-## Hi there 👋
+# Selam! Ben Şahan Karakuş 👋
 
-<!--
-**sahankarakus/sahankarakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirme ve Yapay Zeka dünyasına tutkulu bir mühendisim. Karmaşık problemleri veri odaklı çözümlerle ve modern teknolojilerle çözmeyi seviyorum.
 
-Here are some ideas to get you started:
+## 🚀 Yetkinliklerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Diller:** C#, Python, SQL
+- **Yapay Zeka & ML:** Scikit-learn (Random Forest, SVM, Regression), Veri Analizi, Görüntü İşleme
+- **Teknolojiler:** .NET Core, Windows Forms, SQLite, Git, Docker
+
+## 🛠️ Neler Yapıyorum?
+
+Şu anda ağırlıklı olarak **Makine Öğrenmesi** modellerini gerçek dünya uygulamalarına (özellikle endüstriyel çözümler) entegre etmeye odaklanıyorum.
+
+### Öne Çıkan Projelerim
+- **Kumaş Öneri & Stok Takip Sistemi:** Tekstil sektörü için Random Forest tabanlı karar destek sistemi.
+- **Görüntü İşleme:** Python kullanarak görsel veri analizi ve manipülasyonu.
+
+## 📈 İstatistiklerim
+![Şahan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=sahankarakus&show_icons=true&theme=radical)
+
+---
+📫 Bana ulaşın: [LinkedIn](https://linkedin.com/in/sahankarakus) | [Email](mailto:sahan.karakuss@gmail.com)
