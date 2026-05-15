@@ -17,4 +17,6 @@ Yazılım geliştirme ve Yapay Zeka dünyasına tutkulu bir mühendisim. Karmaş
 - **Görüntü İşleme:** Python kullanarak görsel veri analizi ve manipülasyonu.
 
 ---
-📫 **Bana ulaşın:** [LinkedIn](https://www.linkedin.com/in/şahan-karakuş-595204378/) | [Email](mailto:sahan.karakuss@gmail.com)
+📫 **Bana ulaşın:**
+- 🔗 **LinkedIn:** [linkedin.com/in/şahan-karakuş-595204378/](https://www.linkedin.com/in/şahan-karakuş-595204378/)
+- 📧 **E-posta:** [sahan.karakuss@gmail.com](mailto:sahan.karakuss@gmail.com)
